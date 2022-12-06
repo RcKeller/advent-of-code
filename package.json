@@ -1,5 +1,5 @@
 {
-  "name": "aocrunner",
+  "name": "@rckeller/aocrunner",
   "version": "1.9.5",
   "repository": "https://github.com/caderek/aocrunner",
   "description": "Advent of Code runner",
@@ -44,6 +44,6 @@
     "typescript": "^4.9.3"
   },
   "engines": {
-    "node": ">=16.13.0"
+    "node": ">=18.12.1"
   }
 }
